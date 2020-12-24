@@ -1,0 +1,28 @@
+.login-wrapper{
+    border:1px solid rgb(235, 233, 233);
+    border-radius: 1rem;
+    .login-item{
+        margin: 1rem;
+        .label{
+            //margin: 14px 26px 208px 30px;
+            font-family: Roboto;
+            font-size: 30px;
+            font-weight: bold;
+            color: #1a202c;
+        }
+        .login-btn{
+            padding: 15px 136px 16px 137px;
+            border-radius: 5px;
+            background-color: #04c35c;
+            font-size: 16px;
+            color: #ffffff;
+        }
+        .login-google{
+            padding: 15px 78px 15px 79px;
+            border-radius: 5px;
+            background-color: #2d3748;
+            font-size: 16px;
+            color: #ffffff;
+        }
+    }
+}
